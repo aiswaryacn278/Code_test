@@ -699,4 +699,8 @@ footer .logo img {
     .section-head {
         font-size: calc(48px - 8px * 2.2);
     }
+    .banner-sec{
+        padding-top: 100px;
+        background-size: right center;
+    }
 }
